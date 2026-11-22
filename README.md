@@ -11,6 +11,7 @@ Each one starts with a question, ships a working demo and ends with what I learn
 |---|------------|----------|---------|
 | 01 | [Staggered entrances](lib/experiments/stagger/) ([demo](https://eyadoraby.github.io/explorations/?e=stagger)) | Can one controller run a staggered list entrance, and what should it do when animations are off? | 2026-11-22 |
 | 02 | [Mirroring a layout for Arabic](lib/experiments/rtl/) ([demo](https://eyadoraby.github.io/explorations/?e=rtl)) | Which parts of a layout flip on their own in Arabic, and which only flip if I write them the right way? | 2026-11-22 |
+| 03 | [Text at 200%](lib/experiments/text_scale/) ([demo](https://eyadoraby.github.io/explorations/?e=text-scale)) | How do I keep a dense card readable at 200% text, and which greys are still readable at all? | 2026-11-22 |
 
 ## How it is organised
 
