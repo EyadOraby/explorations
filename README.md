@@ -9,6 +9,7 @@ Each one starts with a question, ships a working demo and ends with what I learn
 
 | # | Experiment | Question | Started |
 |---|------------|----------|---------|
+| 01 | [Staggered entrances](lib/experiments/stagger/) ([demo](https://eyadoraby.github.io/explorations/?e=stagger)) | Can one controller run a staggered list entrance, and what should it do when animations are off? | 2026-11-22 |
 
 ## How it is organised
 

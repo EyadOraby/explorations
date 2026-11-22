@@ -38,11 +38,12 @@ class ExperimentPage extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  DecoratedBox(
-                    decoration: BoxDecoration(
-                      color: card,
-                      border: Border.all(color: rule),
+                  Material(
+                    color: card,
+                    clipBehavior: Clip.antiAlias,
+                    shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(16),
+                      side: const BorderSide(color: rule),
                     ),
                     child: Padding(
                       padding: const EdgeInsets.all(20),
