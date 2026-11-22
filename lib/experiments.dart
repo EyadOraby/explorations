@@ -1,4 +1,5 @@
 import 'experiment.dart';
+import 'experiments/fling/fling.dart';
 import 'experiments/rtl/rtl.dart';
 import 'experiments/stagger/stagger.dart';
 import 'experiments/text_scale/text_scale.dart';
@@ -8,6 +9,7 @@ final List<Experiment> experiments = [
   staggerExperiment,
   rtlExperiment,
   textScaleExperiment,
+  flingExperiment,
 ];
 
 Experiment? experimentBySlug(String? slug) {
