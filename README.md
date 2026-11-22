@@ -13,6 +13,7 @@ Each one starts with a question, ships a working demo and ends with what I learn
 | 02 | [Mirroring a layout for Arabic](lib/experiments/rtl/) ([demo](https://eyadoraby.github.io/explorations/?e=rtl)) | Which parts of a layout flip on their own in Arabic, and which only flip if I write them the right way? | 2026-11-22 |
 | 03 | [Text at 200%](lib/experiments/text_scale/) ([demo](https://eyadoraby.github.io/explorations/?e=text-scale)) | How do I keep a dense card readable at 200% text, and which greys are still readable at all? | 2026-11-22 |
 | 04 | [Flinging a card](lib/experiments/fling/) ([demo](https://eyadoraby.github.io/explorations/?e=fling)) | How do I make a dragged card fly off when thrown and spring back when let go gently? | 2026-11-23 |
+| 05 | [Numbers inside Arabic](lib/experiments/bidi/) ([demo](https://eyadoraby.github.io/explorations/?e=bidi)) | Why do phone numbers, time ranges and prices come out scrambled inside Arabic, and what is the smallest fix? | 2026-11-23 |
 
 ## How it is organised
 
